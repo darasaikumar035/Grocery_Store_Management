@@ -8,5 +8,7 @@ In this python project, we will build a grocery store management application. It
 
 #-Functionality at user End.
 User Can add Products that are available at the Store and Go for the Checkout
+
+
 #-Functionality at Management End.
 Management can modify the products that to be available at the Store and their prices.
